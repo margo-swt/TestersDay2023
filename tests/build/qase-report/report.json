@@ -1,0 +1,40 @@
+{
+    "title": "Test run",
+    "execution": {
+        "start_time": 1694321600.507064,
+        "end_time": 1694321630.8416572,
+        "duration": 30334,
+        "cumulative_duration": 30119
+    },
+    "stats": {
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "broken": 0,
+        "muted": 0,
+        "total": 1
+    },
+    "results": [
+        {
+            "id": "b299e492-03ef-4fa8-8fab-44aed1478826",
+            "title": "test_book_hotel",
+            "status": "passed",
+            "duration": 30119,
+            "thread": "4780-MainThread"
+        }
+    ],
+    "threads": [
+        "4780-MainThread"
+    ],
+    "suites": [],
+    "environment": null,
+    "host_data": {
+        "system": "Darwin",
+        "node": "sweefts-MacBook-Pro.local",
+        "release": "22.6.0",
+        "version": "Darwin Kernel Version 22.6.0: Wed Jul  5 22:22:05 PDT 2023; root:xnu-8796.141.3~6/RELEASE_ARM64_T6000",
+        "machine": "x86_64",
+        "python": "3.9.13.final.0",
+        "pip": "23.1.2"
+    }
+}

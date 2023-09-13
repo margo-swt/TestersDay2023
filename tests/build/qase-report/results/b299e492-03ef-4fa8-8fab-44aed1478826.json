@@ -1,0 +1,23 @@
+{
+    "id": "b299e492-03ef-4fa8-8fab-44aed1478826",
+    "title": "test_book_hotel",
+    "signature": "test_booking_com.py::TestBookHotel::test_book_hotel",
+    "run_id": null,
+    "testops_id": null,
+    "execution": {
+        "start_time": 1694321600.528759,
+        "status": "passed",
+        "end_time": 1694321630.648244,
+        "duration": 30119,
+        "stacktrace": null,
+        "thread": "4780-MainThread"
+    },
+    "fields": {},
+    "attachments": [],
+    "steps": [],
+    "params": {},
+    "author": null,
+    "relations": [],
+    "muted": false,
+    "message": null
+}
